@@ -1,5 +1,7 @@
 # enzo
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Validate [API blueprints][1] via CLI using [Apiary][2] and [Blueprint][3] APIs.
 
 ## Usage
